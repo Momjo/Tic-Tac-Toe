@@ -2,6 +2,9 @@
 
 The game is with  artificial intelligence.
 
-How to run?
+How to run:
+```
+$ python TicTacToe.py
 
-just run with your console :)
+```
+
